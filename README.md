@@ -14,4 +14,4 @@ I'm **jiggyflyjoe** (or just Joe, if you prefer). I'm a *very* introverted 39-ye
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm currently obsessed with the video game *Once Human*
 
-<a href="https://app.daily.dev/jiggyflyjoe"><img src="https://api.daily.dev/devcards/v2/REu0Lyqsuy089yA7IxWeR.png?type=wide&r=cci" width="652" alt="jiggyflyjoe's Dev Card"/></a>
+<a href="https://app.daily.dev/jiggyflyjoe"><img src="https://api.daily.dev/devcards/v2/REu0Lyqsuy089yA7IxWeR.png?type=wide&r=wxy" width="652" alt="Joseph Black's Dev Card"/></a>
