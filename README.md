@@ -12,6 +12,6 @@ I'm **jiggyflyjoe** (or just **Joe**), an Indianapolis native who recently made 
 - 💬 Ask me about my cats or how I think coding is a lot like knitting!
 - 📫 How to reach me: I keep an [always-updated link hub on Carrd](https://jiggyflyjoe.carrd.co)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm currently obsessed with the video game *Once Human*
+- ⚡ Fun fact: I'm currently obsessed with the video game *Throne and Liberty*
 
 <a href="https://app.daily.dev/jiggyflyjoe"><img src="https://api.daily.dev/devcards/v2/REu0Lyqsuy089yA7IxWeR.png?type=wide&r=wxy" width="652" alt="Joseph Black's Dev Card"/></a>
