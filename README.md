@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-**jiggyflyjoe**, or simply **Joe**, is an introverted and “neurospicy” Type 2 diabetic hailing from Indianapolis who’s traded city life for the wide-open skies of rural Kansas. While the sunsets are stunning, the internet speed reminds him to stay humble. A former Software Development and Visual Communications student, Joe has embraced self-learning, diving headfirst into software, web development, and programming as a passionate tech enthusiast.
+**jiggyflyjoe**, or just **Joe**, is a tech-obsessed, introverted, diabetic, and “neurospicy” creative who swapped the city lights of Indianapolis for the quiet charm of rural Kansas—where the sunsets are gorgeous, but the internet speed is a humbling experience. A former Software Development and Visual Communications student turned coding and **tech enthusiast**, Joe spends his days deep-diving into software, web development, and gaming tech, always chasing that next great project.
 
-Outside of tech, Joe is a multifaceted creative: gamer, writer, live streamer, podcaster, photographer, and graphic artist. His Twitch streams radiate good vibes and foster a peaceful, welcoming community—an extension of his mission to create spaces for connection and camaraderie. Joe’s most loyal supporters, however, are his three fluffy feline companions: Tigger, Rufus, and Cinnamon. They remind him daily that even coding geniuses need to pause for a cuddle (or the occasional laser pointer chase).
+When he's not wrangling code, Joe wears many hats—gamer, writer, live streamer, podcaster, photographer, and graphic artist. His **Twitch streams** are a cozy, welcoming escape from the chaos of the world, fostering community and connection through good vibes and great games. But his most devoted audience? His feline trio: **Tigger**, **Rufus**, and **Cinnamon**, who ensure he never codes too long without a mandatory cuddle (or an impromptu keyboard takeover).
 
-As he looks ahead to 2025, Joe is excited to continue growing his skills, building creative projects, and working toward his ultimate dream: a fulfilling career in the tech or gaming industries, while curating light and love in an increasingly chaotic world.
+Looking ahead, Joe is focused on leveling up his skills, launching creative projects, and building toward a career that blends his love of **tech**, **gaming**, and **storytelling**. Whether he's crafting content, developing software, or just sharing a laugh online, his mission remains the same—bringing light, creativity, and a sense of belonging to the digital world.
 
-- 🔭 I’m currently working on learning frontend development with freeCodeCamp
+- 🔭 I’m currently working on the JavaScript Algorithms and Data Structures Certification course at [freeCodeCamp](https://freecodecamp.org)
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on just about anything
-- 💬 Ask me about my cats 
-- 📫 How to reach me: I keep an [always-updated link hub on Carrd](https://jiggyflyjoe.carrd.co) where you can find buttons to reach me on every platform I'm on!
+- 👯 I’m looking to collaborate on just about anything!
+- 💬 Ask me about my cats
+- 📫 How to reach me: I keep an [always-updated website](https://jiggyflyjoe.com) where you can find buttons to reach me on every platform I'm active on!
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm currently obsessed with the video games *Once Human*, *Throne and Liberty*, *Enshrouded*, *No Man's Sky*, and *Palia*.
